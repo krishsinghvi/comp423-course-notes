@@ -1,5 +1,6 @@
 # Setting up a dev container for Rust
 
+
 A helpful guide for setting up a Rust project with a Git repository and a dev container. We will create a "Hello COMP423!" program.
 
 * Primary author: [Krish Singhvi](https://github.com/krishsinghvi)
