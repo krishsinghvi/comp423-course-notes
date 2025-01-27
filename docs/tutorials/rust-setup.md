@@ -1,5 +1,6 @@
 # Setting up a dev container for Rust
 
+
 A helpful guide for setting up a Rust project with a Git repository and a dev container. We will create a "Hello COMP423!" program.
 
 * Primary author: [Krish Singhvi](https://github.com/krishsinghvi)
@@ -87,6 +88,9 @@ The output you recieve should be similar to this:
 ``` rust
 rustc 1.x.x (some-hash YYYY-MM-DD)
 ```
+
+!!! success
 If this is shown Rust has been installed and you can use it in your Dev Container.
+!!!
 
 ## **Steps to create a new project, write a basic "Hello COMP423" program, compile, and run**
