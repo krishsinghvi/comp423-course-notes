@@ -88,6 +88,9 @@ The output you recieve should be similar to this:
 ``` rust
 rustc 1.x.x (some-hash YYYY-MM-DD)
 ```
+
+!!! success
 If this is shown Rust has been installed and you can use it in your Dev Container.
+!!!
 
 ## **Steps to create a new project, write a basic "Hello COMP423" program, compile, and run**
