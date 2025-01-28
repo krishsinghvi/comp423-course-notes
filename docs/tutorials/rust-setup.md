@@ -36,7 +36,17 @@ git init
 
 ### **Step 3**
 
-You need to create a new public repository on GitHub and then copy the URL. Once you have done that, link it to your local project:
+Create your Github Repository
+
+(1) Log in to your GitHub account and navigate to the Create a New Repository page.
+
+(2) Fill in the details as follows:
+
+Repository Name: rust-hello-world
+Description: "Hello World Project in Rust."
+Visibility: Public
+
+(3) Once you have done that, in terminal link it to your local project:
 
 ``` bash
 git remote add origin https://github.com/<your-username>/rust-hello-world.git
