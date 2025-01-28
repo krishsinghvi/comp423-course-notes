@@ -157,7 +157,7 @@ This will both build the program and immediately execute it, giving the output:
 ### **Step 4**
 * Stage files and the add a README:
 ``` rust
-    echo "https://anshdesai04.github.io/comp423-course-notes/tutorials/rust-setup/" > README.md
+    echo "https://krishsinghvi.github.io/comp423-course-notes/tutorials/rust-setup/" > README.md
     git add .
 ```
 * Add configs and commit:
