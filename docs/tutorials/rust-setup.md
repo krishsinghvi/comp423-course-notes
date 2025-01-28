@@ -80,7 +80,7 @@ Check to see that Rust is installed and working in the Dev Container:
 * Open terminal in Visual Studio and run:
 
 ```rust
-rustc --version rustc 1.x.x (some-hash YYYY-MM-DD)
+rustc --version
 ```
 
 The output you recieve should be similar to this:
